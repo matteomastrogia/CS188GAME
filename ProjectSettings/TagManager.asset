@@ -25,9 +25,9 @@ TagManager:
   - 
   - 
   - 
-  - Layer 1
-  - Layer 2
-  - Layer 3
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -39,17 +39,17 @@ TagManager:
   - 
   m_SortingLayers:
   - name: Background
-    uniqueID: 2425651459
+    uniqueID: 1392652473
     locked: 0
   - name: World Environment
-    uniqueID: 4250941897
+    uniqueID: 263993691
     locked: 0
   - name: Boundaries
-    uniqueID: 31870949
-    locked: 0
-  - name: Player
-    uniqueID: 4189426099
+    uniqueID: 1473218915
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2604830363
     locked: 0
